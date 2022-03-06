@@ -4,9 +4,6 @@
 <hr style="border:2px solid gray"> </hr>
 
 Get in touch
-<hr style="border:2px solid gray"> </hr>
-<div class="social-icons-image">
-                <a href="http://www.instagram.com">
-                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
-                </a>
-            </div>
+<hr style="border:1px solid gray"> </hr>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
