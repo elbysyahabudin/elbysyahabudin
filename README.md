@@ -6,4 +6,3 @@
 Get in touch
 <hr style="border:1px solid gray"> </hr>
 [LinkedIn](https://www.linkedin.com/in/elby-syahabudin-09b930212/).
-[Instagram](https://www.instagram.com/elbysyahabudin/).
