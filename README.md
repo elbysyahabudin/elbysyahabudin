@@ -5,7 +5,7 @@
 
 Languages :
 
-<img src=https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width="100" height="100">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
 <hr style="border:1px solid gray"> </hr>
 
