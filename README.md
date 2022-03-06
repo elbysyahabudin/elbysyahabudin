@@ -1,3 +1,4 @@
-Hello! 
+Hello there! 
 
-I'm a programming, electronics and telecommunications enthusiast
+I'm a programming, electronics and telecommunications enthusiast.
+
