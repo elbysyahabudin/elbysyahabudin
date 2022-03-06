@@ -5,6 +5,6 @@
 
 Get in touch
 <hr style="border:1px solid gray"> </hr>
-[LinkedIn](https://www.linkedin.com/in/elby-syahabudin-09b930212/).
+Follow me on [LinkedIn](https://www.linkedin.com/in/elby-syahabudin-09b930212/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
