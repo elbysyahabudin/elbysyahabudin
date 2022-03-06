@@ -4,7 +4,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 Languages :
-![alt text](https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png)
+![alt text](https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png =50x50)
 <hr style="border:1px solid gray"> </hr>
 
 You can find me on the following social media :
