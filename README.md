@@ -7,4 +7,5 @@ Get in touch
 <hr style="border:1px solid gray"> </hr>
 
 Find me on :
-* [LinkedIn](https://www.linkedin.com/in/elby-syahabudin-09b930212/)
+* [Linkedln](https://www.linkedin.com/in/elby-syahabudin-09b930212/)
+* [Instagram](https://www.instagram.com/elbysyahabudin/)
