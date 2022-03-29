@@ -12,7 +12,7 @@ Hardware :
 
 * Arduino
 * ESP8266
-* Rapsberry Pi
+
 
 Interests :
 
@@ -20,9 +20,7 @@ Interests :
 * Automation System
 * Robotics
 * IoT
-* Machine Learning
-* Computer Vision
-* Full Stack
+
 
 <hr style="border:1px solid gray"> </hr>
 
