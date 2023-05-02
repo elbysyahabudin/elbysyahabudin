@@ -3,15 +3,24 @@
   I'm a programming, electronics and telecommunications enthusiast. I recently graduated from university but I have a  lot of experience in making exciting projects. I will put my projects on this platform as my contribution to the engineering world. Let's learn and grow!
 <hr style="border:2px solid gray"> </hr>
 
-Languages :
+Language :
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/dart.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>
 
+Database : 
+
+* MySQL
+* PostgreSQL
 
 Hardware :
 
 * Arduino
 * ESP8266 / ESP32
+
+Interests :
+
+* Fluter
+* WPF or WinForm
 
 <hr style="border:1px solid gray"> </hr>
 
